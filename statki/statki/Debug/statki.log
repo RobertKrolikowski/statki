@@ -1,0 +1,8 @@
+﻿  Source.cpp
+c:\programowanie\visual 2015\c++\statki\statki\source.cpp(25): warning C4309: '=': truncation of constant value
+c:\programowanie\visual 2015\c++\statki\statki\source.cpp(44): warning C4309: '=': truncation of constant value
+c:\programowanie\visual 2015\c++\statki\statki\source.cpp(111): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\programowanie\visual 2015\c++\statki\statki\source.cpp(234): warning C4309: '=': truncation of constant value
+c:\programowanie\visual 2015\c++\statki\statki\source.cpp(249): warning C4309: '=': truncation of constant value
+  statki.vcxproj -> C:\programowanie\visual 2015\c++\statki\Debug\statki.exe
+  statki.vcxproj -> C:\programowanie\visual 2015\c++\statki\Debug\statki.pdb (Full PDB)
